@@ -32,6 +32,6 @@ Welcome to our webinar on [Webinar Topic]! This repository is a place where atte
 Here's a list of our amazing webinar attendees:
 
 - [Your Name](attendees/your_name.md) - [Email](mailto:your.email@example.com) - [Your Organization]
-- Swapnendu Banerjee(attendees/swapnendu.md) - [Email](mailto:swaps.b003@gmail.com) - NoobCode
+- [Swapnendu Banerjee](attendees/your_name.md) - [Email](mailto:swaps.b003@gmail.com) - NoobCode
 
 Thank you for joining our webinar and contributing to our community!
