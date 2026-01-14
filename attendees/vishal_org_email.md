@@ -1,4 +1,4 @@
 **Name:** Vishal Malik
-**Email:** sb@exaple.com
+**Email:** vm@exaple.com
 **Organization:** Microsoft
 **Bio:** Nothing
